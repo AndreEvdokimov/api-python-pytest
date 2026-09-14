@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2001,
+    "iid": 111,
+    "project_id": 123,
+    "title": "Fix timeout on login",
+    "state": "opened",
+    "source_branch": "fix/login-timeout",
+    "target_branch": "main"
+  },
+  {
+    "id": 2002,
+    "iid": 444,
+    "project_id": 123,
+    "title": "Add CSV export",
+    "state": "merged",
+    "source_branch": "feat/csv-export",
+    "target_branch": "main"
+  },
+  {
+    "id": 2003,
+    "iid": 555,
+    "project_id": 123,
+    "title": "Docs: API client usage",
+    "state": "opened",
+    "source_branch": "docs/api-client",
+    "target_branch": "main"
+  }
+]

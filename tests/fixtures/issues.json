@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1001,
+    "iid": 333,
+    "project_id": 123,
+    "title": "Login page times out",
+    "state": "opened",
+    "labels": ["bug"]
+  },
+  {
+    "id": 1002,
+    "iid": 444,
+    "project_id": 123,
+    "title": "Add export to CSV",
+    "state": "opened",
+    "labels": ["feature"]
+  },
+  {
+    "id": 1003,
+    "iid": 555,
+    "project_id": 123,
+    "title": "Update README",
+    "state": "closed",
+    "labels": ["docs"]
+  }
+]
